@@ -1,20 +1,24 @@
-👋 Hi, I'm Esra
-💻 Data Enthusiast | Aspiring Data Analyst
+👋 Hi, I’m Esra
 
-Welcome to my GitHub! I’m passionate about exploring data, discovering patterns, and transforming numbers into meaningful stories. With experience in Python, SQL, and tools like Power BI and Tableau, I strive to create actionable insights that drive impact.
+Data Enthusiast | Aspiring Data Analyst
+
+Welcome to my GitHub! I’m passionate about analysing data, uncovering patterns, and transforming numbers into clear, meaningful insights that support data-driven decision-making. I enjoy working with real-world datasets and presenting findings in a way that’s accessible to both technical and non-technical audiences.
 
 🌟 What I Do
 
-🔍 Data Analysis: Uncovering trends and insights across various domains.
+🔍 Data Analysis – Exploring datasets to identify trends, insights, and opportunities for improvement
+📊 Data Visualisation – Creating clear dashboards and presentations to communicate insights effectively
 
-📊 Tools & Technologies:
+🛠️ Tools & Technologies
 
-Python (Pandas, Matplotlib, Seaborn)
 SQL
-Excel (Advanced skills in formulas, Pivot Tables, and charts)
-Power BI & Tableau (Interactive Dashboards)
+
+Excel (advanced formulas, pivot tables, charts)
+
+Power BI & Tableau (interactive dashboards)
 
 🌱 Get in Touch
 
 📧 Email: esraertas5@gmail.com
+
 
