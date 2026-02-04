@@ -2,25 +2,30 @@
 
 Data Enthusiast | Aspiring Data Analyst
 
-Welcome to my GitHub! I’m passionate about analysing data, uncovering patterns, and transforming numbers into clear, meaningful insights that support data-driven decision-making. I enjoy working with real-world datasets and presenting findings in a way that’s accessible to both technical and non-technical audiences.
+Welcome to my GitHub! I’m passionate about turning data into actionable insights. I enjoy exploring real-world datasets, uncovering patterns, and presenting findings in a way that’s meaningful to both technical and non-technical audiences.
 
 🌟 What I Do
 
-🔍 Data Analysis – Exploring datasets to identify trends, insights, and opportunities for improvement
+🔍 Data Analysis – Explore datasets to identify trends, insights, and opportunities
 
-📊 Data Visualisation – Creating clear dashboards and presentations to communicate insights effectively
+📊 Data Visualization – Build clear and interactive dashboards
+
+💡 Storytelling with Data – Communicate insights that drive decisions
 
 🛠️ Tools & Technologies
 
+I work with a variety of tools to analyze, visualize, and present data:
 
-SQL
+SQL – Writing queries, joins, aggregations, and data management
 
-Excel (advanced formulas, pivot tables, charts)
+Excel – Advanced formulas, pivot tables, charts, and dashboards
 
-Power BI & Tableau (interactive dashboards)
+Power BI – Interactive dashboards, KPIs, and business reporting
+
+Tableau – Visual storytelling, charts, and dashboards
 
 🌱 Get in Touch
 
 📧 Email: esraertas5@gmail.com
 
-
+💼 LinkedIn: www.linkedin.com/in/esra-ertas
