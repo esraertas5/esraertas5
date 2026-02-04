@@ -29,7 +29,9 @@ Tableau – Visual storytelling, charts, and dashboards
 Here are some examples of my work:
 
 Sales Performance Analysis – Analyze sales data using Excel for targeted marketing
+
 Course Performance Dashboard – Interactive dashboard showing trends and key performance indicators (KPIs)
+
 Data Storytelling Reports – Present insights from real-world datasets through clear and effective visual reports
 
 🌱 Get in Touch
