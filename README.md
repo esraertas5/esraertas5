@@ -7,9 +7,11 @@ Welcome to my GitHub! I’m passionate about analysing data, uncovering patterns
 🌟 What I Do
 
 🔍 Data Analysis – Exploring datasets to identify trends, insights, and opportunities for improvement
+
 📊 Data Visualisation – Creating clear dashboards and presentations to communicate insights effectively
 
 🛠️ Tools & Technologies
+
 
 SQL
 
